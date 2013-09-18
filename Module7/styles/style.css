@@ -1,0 +1,100 @@
+
+h1{
+	text-align: center;
+	margin: auto;
+	padding-top: 100px;
+	color: white;
+	font-family:"BlackCasper";
+	font-size: 70pt;
+	color: #ffffff;
+}
+
+#page_two{
+	margin: auto;
+	box-shadow: #999 1px 1px 3px; 
+	background: #000;
+	border-radius: 8px;
+	width: 885px;
+	height: auto;
+}
+
+#searchtxt{
+	margin-top: 14px;
+	margin-left: 15px;
+	box-shadow: #000000 1px 1px 3px; 
+	background: #000000;
+	width: 200px;
+	padding: 2px;
+	font-family: "Lithos Pro Regular";
+	color: #fff;
+
+}
+
+#searchbtn{
+	padding: 3px;
+	font-family: "Lithos Pro Regular";
+}
+
+
+#page_three{
+	background: #0f0f0f;
+	height: auto;
+	width: 865px;
+	margin: auto;
+	box-shadow: #999 1px 1px 3px; 
+	border-radius: 8px;
+	margin-top: 14px;
+	padding: 10px;
+
+}
+
+
+#page_four{
+	font-family: "Lithos Pro Regular";
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+	padding-bottom: 50px;
+}
+
+
+
+ #one{
+		font-size: 18pt;
+		margin-top: 50px;
+	}
+
+
+ #two{
+		font-size: 14pt;
+		margin-top: 5px;
+	}
+#imgdiv{
+	margin: 20px;
+	width: auto;
+	height: 275px;
+
+}
+#thumb{
+	height: 250px;
+	width: 200px;
+}
+	
+#post1{
+	float: left;
+	height: auto;
+	width: 25%;
+}
+#post2{
+	width: 40%;
+	
+	height: auto;
+}
+p, h3, h2{
+	font-family: "Lithos Pro Regular";
+	color: white;
+}
+#syno{
+	font-size: 9pt;
+}
+
